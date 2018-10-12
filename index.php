@@ -5,22 +5,23 @@
 <h1>Mili's first PHP page</h1>
 
 <?php
+Function add()
+{
 
-for($i=0; $i<10; $i++){
-echo "Hello php <br>";
+}
+Function substract ()
+{
+
+}
+Function multiply()
+{
+
+}
+Function divide()
+{
+
 }
 
-$txt = "toke";
-echo "Valobashi " . $txt . " Foad <br>";
-
-$txt = "Valobasi";
-echo "$txt toke Charchil<br>";
-
-$a=1;
-while( $a <= 10){
-    echo "$a . Hello PHP <br>";
-    $a++;
-}
 ?>
 
 
